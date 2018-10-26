@@ -1,0 +1,21 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot ngucapin selamat bobok",
+  "main": "init.js",
+  "dependencies": {
+    "shuffle-array": "^1.0.1",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node init.js"
+  },
+  "keywords": [
+    "bot",
+    "twitter"
+  ],
+  "author": "felangga",
+  "license": "ISC"
+}
